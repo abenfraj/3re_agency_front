@@ -65,6 +65,7 @@ const UserForm = () => {
             letterSpacing: ".3rem",
             color: "inherit",
             textDecoration: "none",
+            fontSize: "1.2rem",
           }}
         >
           ADD NEW USER
